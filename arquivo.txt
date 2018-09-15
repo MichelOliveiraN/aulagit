@@ -5,3 +5,5 @@ Minha primeira alteração no projeto
 Outra alteração
 
 Alteração no final do arquivo
+
+...
