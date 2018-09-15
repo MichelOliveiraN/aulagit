@@ -1,9 +1,14 @@
 Alteração no_____ inicio do arquivo
+<<<<<<< HEAD
+=======
 
 
 
 
+>>>>>>> dev
 
+
+<<<<<<< HEAD
 
 
 Linha do meio
